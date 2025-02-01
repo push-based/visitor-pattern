@@ -1,0 +1,17 @@
+{
+  "name": "visitor-pattern",
+  "version": "1.0.0",
+  "description": "The visitor pattern is a design pattern used to organize operations on data structures.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Hladky",
+  "license": "MIT",
+  "dependencies": {
+    "ansis": "^3.10.0"
+  }
+}
