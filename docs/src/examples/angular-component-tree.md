@@ -2,9 +2,9 @@
 
 ## File Content
 
-- JS Content:  `*{}`  - shorthand for CSS text content
+- CSS Content:  `*{}`  - shorthand for CSS text content
 - HTML Content:  `</>`  - shorthand for HTML text content
-- CSS Content:  `{;}`  - shorthand for JS text content
+- JS Content:  `{;}`  - shorthand for JS text content
 - JSON Content:  `[:]`  - shorthand for JSON text content
 
 ## File-tree
